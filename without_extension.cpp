@@ -1,12 +1,7 @@
-
-
-
 #include <iostream>
 #include <string>
 #include <Windows.h> // 引入Windows API头文件
-
 using namespace std;
-
 const int N = 444;
 
 // 对URL中的特殊字符进行转义
